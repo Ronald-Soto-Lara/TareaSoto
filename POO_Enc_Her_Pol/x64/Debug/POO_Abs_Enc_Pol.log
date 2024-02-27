@@ -1,0 +1,4 @@
+﻿  POO_Abs_Enc_Pol.cpp
+C:\Users\jhean\Documents\Programacion Avanzada\POO_Abs_Enc_Pol\POO_Abs_Enc_Pol.cpp(53,13): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jhean\Documents\Programacion Avanzada\POO_Abs_Enc_Pol\POO_Abs_Enc_Pol.cpp(55,23): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  POO_Abs_Enc_Pol.vcxproj -> C:\Users\jhean\Documents\Programacion Avanzada\POO_Abs_Enc_Pol\x64\Debug\POO_Enc_Her_Pol.exe
